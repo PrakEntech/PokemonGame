@@ -118,25 +118,25 @@ The Pokémon data is stored in the `pokemondata.py` file and includes the follow
 |           |       |                |          | 3. Discharge (Power: 80, Accuracy: 100, PP: 3)                                                                                                                 |
 |           |       |               |          | 4. Thunderbolt (Power: 90, Accuracy: 80, PP: 2)                                                                                                                |
 | Zapdos    | 100   | 290        | Electric | 1. Thunder Shock (Power: 40, Accuracy: 100, PP: 5)                                                                                                             |
-|           |       |     |            |          | 2. Drill Peck (Power: 80, Accuracy: 90, PP: 3)                                                                                                                 |
-|           |       |     |            |          | 3. Agility (Power: 0, Accuracy: 100, PP: 3) - Speed Boost                                                                                                      |
-|           |       |     |            |          | 4. Thunderbolt (Power: 90, Accuracy: 80, PP: 2)                                                                                                                |
+|           |       |               |          | 2. Drill Peck (Power: 80, Accuracy: 90, PP: 3)                                                                                                                 |
+|           |       |              |          | 3. Agility (Power: 0, Accuracy: 100, PP: 3) - Speed Boost                                                                                                      |
+|           |       |              |          | 4. Thunderbolt (Power: 90, Accuracy: 80, PP: 2)                                                                                                                |
 | Tyranitar | 61    | 330       | Rock     | 1. Rock Slide (Power: 75, Accuracy: 90, PP: 4) - Flinch: 30%                                                                                                   |
-|           |       |     |            |          | 2. Payback (Power: 50, Accuracy: 90, PP: 4)                                                                                                                    |
-|           |       |     |            |          | 3. Bite (Power: 60, Accuracy: 90, PP: 4) - Flinch: 30%                                                                                                         |
-|           |       |     |            |          | 4. Crunch (Power: 80, Accuracy: 100, PP: 3)                                                                                                                    |
+|           |       |               |          | 2. Payback (Power: 50, Accuracy: 90, PP: 4)                                                                                                                    |
+|           |       |              |          | 3. Bite (Power: 60, Accuracy: 90, PP: 4) - Flinch: 30%                                                                                                         |
+|           |       |             |          | 4. Crunch (Power: 80, Accuracy: 100, PP: 3)                                                                                                                    |
 | Lycanroc  | 82    | 272        | Rock     | 1. Stone Edge (Power: 100, Accuracy: 80, PP: 2)                                                                                                                |
-|           |       |     |            |          | 2. Fire Fang (Power: 65, Accuracy: 95, PP: 4)                                                                                                                  |
-|           |       |     |            |          | 3. Bite (Power: 60, Accuracy: 90, PP: 4) - Flinch: 30%                                                                                                         |
-|           |       |     |            |          | 4. Thunder Fang (Power: 65, Accuracy: 90, PP: 4)                                                                                                               |
+|           |       |              |          | 2. Fire Fang (Power: 65, Accuracy: 95, PP: 4)                                                                                                                  |
+|           |       |               |          | 3. Bite (Power: 60, Accuracy: 90, PP: 4) - Flinch: 30%                                                                                                         |
+|           |       |               |          | 4. Thunder Fang (Power: 65, Accuracy: 90, PP: 4)                                                                                                               |
 | Gigalith  | 25    | 308       | Rock     | 1. Smack Down (Power: 50, Accuracy: 100, PP: 5)                                                                                                                |
-|           |       |     |            |          | 2. Rock Slide (Power: 75, Accuracy: 90, PP: 4) - Flinch: 30%                                                                                                   |
-|           |       |     |            |          | 3. Explosion (Power: 100, Accuracy: 70, PP: 1)                                                                                                                 |
-|           |       |     |            |          | 4. Earthquake (Power: 90, Accuracy: 90, PP: 2)                                                                                                                 |
+|           |       |               |          | 2. Rock Slide (Power: 75, Accuracy: 90, PP: 4) - Flinch: 30%                                                                                                   |
+|           |       |                |          | 3. Explosion (Power: 100, Accuracy: 70, PP: 1)                                                                                                                 |
+|           |       |                |          | 4. Earthquake (Power: 90, Accuracy: 90, PP: 2)                                                                                                                 |
 | Rhyperior | 40    | 330       | Rock     | 1. Rock Wrecker (Power: 120, Accuracy: 70, PP: 1)                                                                                                              |
-|           |       |     |            |          | 2. Bulldoze (Power: 60, Accuracy: 90, PP: 3)                                                                                                                   |
-|           |       |     |            |          | 3. Stone Edge (Power: 100, Accuracy: 80, PP: 2)                                                                                                                |
-|           |       |     |            |          | 4. Earthquake (Power: 90, Accuracy: 90, PP: 2)                                                                                                                 |
+|           |       |            |          | 2. Bulldoze (Power: 60, Accuracy: 90, PP: 3)                                                                                                                   |
+|           |       |                |          | 3. Stone Edge (Power: 100, Accuracy: 80, PP: 2)                                                                                                                |
+|           |       |                |          | 4. Earthquake (Power: 90, Accuracy: 90, PP: 2)                                                                                                                 |
 
 
 Each Pokémon has attributes such as speed, HP, current HP, type, and moves. Moves are defined by their power, accuracy, PP (power points), and any special effects.
